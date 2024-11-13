@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Smrithi! (@smrithi21)
+- 👋 Hi, I’m Smrithi! (@smrithipiedy)
 - 👀 I’m interested in UI/UX, Front-end Development, Artificial Intelligence and Web Development.
 - 🌱 I’m currently learning C++, JavaScript and more about general Computer Science knowledge!
 - 💞️ I’m looking to collaborate on interesting projects (especially if it has something to do with designing or gaming)
